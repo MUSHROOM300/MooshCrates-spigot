@@ -1,6 +1,6 @@
 main: su.nightexpress.excellentcrates.ExcellentCrates
 version: '${project.version}'
-name: ExcellentCrates
+name: MooshCrates
 author: NightExpress
 desciption: Fully customizable crates with rewards. Enjoy.
 depend: [ NexEngine ]
